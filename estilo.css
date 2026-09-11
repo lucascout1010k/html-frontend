@@ -1,0 +1,35 @@
+body{
+ margin: 0;
+}
+header{
+ background-color: blue;
+ color: white;
+ height: 150px;
+}
+.img-topo{
+ width: 100px;
+ float: left;
+}
+.form{
+ background-color: rgb(0, 0, 73);
+ color: white;
+ padding: 20px ;
+}
+form input{
+ background-color: rgb(125, 205, 255);
+ color: white;
+ font-size: 20px;
+margin: 5px;
+height: 22px;
+ width: 200px;
+}
+.btn-enviar{
+width: 150px;
+height: 30px;
+ background-color: rgb(0, 255, 21);
+}
+.estilo-azul{
+background-color: rgb(0, 0, 73);
+color: white;
+padding: 20px ;
+}
